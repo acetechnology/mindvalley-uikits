@@ -1,2 +1,5 @@
 # mindvalley-uikits
-Mindvalley App with UIKits
+
+Mindvalley IOS App using UIKit
+
+This is a practical test

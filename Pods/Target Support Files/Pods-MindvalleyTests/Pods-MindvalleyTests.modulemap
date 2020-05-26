@@ -1,0 +1,6 @@
+framework module Pods_MindvalleyTests {
+  umbrella header "Pods-MindvalleyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
